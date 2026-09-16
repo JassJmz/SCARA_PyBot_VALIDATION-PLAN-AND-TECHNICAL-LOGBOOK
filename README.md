@@ -11,7 +11,7 @@ A4988 stepper drivers and NEMA17 motors, homes each axis against a mechanical li
 on power-up, and actuates an SG90 servo gripper as the end effector. The arm can be
 controlled locally over USB/UART or remotely over Wi-Fi.
 
-See [`documentation/Report_Phase1_SCARA.docx`](documentation/Report_Phase1_SCARA.docx) for
+See [`documentation/Report_Phase1_SCARA.pdf`](documentation/Report_Phase1_SCARA.pdf) for
 the full system architecture, block diagram, HW/SW partition and BOM (U1A4), and
 [`documentation/Validation_Plan_SCARA.pdf`](documentation/Validation_Plan_SCARA.pdf) for the
 KPI validation plan, test cases and technical logbook (U1A5).
@@ -35,5 +35,9 @@ planning) is in progress — see the technical logbook in
 
 ## Team
 
-Jassiel Obed Jiménez Ochoa — update this section with teammates if the project is
-completed as a team of up to 4 students.
+- Jassiel Obed Jiménez Ochoa
+- Tania Elizabeth Serrano Hernandez
+- Bryan Emmanuel Barboza Carrillo
+- Eber Jafet Rodriguez Valenciano
+
+**Professor:** Osbaldo Aragón Banderas

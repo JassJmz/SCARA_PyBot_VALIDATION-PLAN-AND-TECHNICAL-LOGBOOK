@@ -6,8 +6,11 @@ Running log of project progress. Add a new dated entry each work session; do not
 
 ## Entry 1 — September 14, 2026
 
-**Team members:** Jassiel Obed Jiménez Ochoa (update with teammates' names if the project is
-completed as a team of up to 4)
+**Team members:**
+- Jassiel Obed Jiménez Ochoa
+- Tania Elizabeth Serrano Hernandez
+- Bryan Emmanuel Barboza Carrillo
+- Eber Jafet Rodriguez Valenciano
 
 **Current project status:** Phase 1 (system architecture, main components, HW/SW partition
 and preliminary BOM, U1A4) is complete. Phase 2 (validation planning) is in progress: KPIs,
